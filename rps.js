@@ -1,6 +1,7 @@
 var roundNumber = 0;
 var userScore = 0;
 var computerScore = 0;
+// ELOC WAS HERE
 
 function randomThrow() {
   var throws = ['rock', 'paper', 'scissors'];
